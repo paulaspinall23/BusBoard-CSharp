@@ -1,4 +1,4 @@
-# FizzBuzz
+# BusBoard
 
 1. Fork this repo: click `Fork` in the top-right of the page - this will create a copy of this repo in **your own GitHub account**
 
@@ -12,7 +12,7 @@
 3. "Cloning the repo" will create a folder on your computer with the files from this repo.  
 Open this folder in Visual Studio Code.
 
-4. Open a command-prompt in the project folder.
+4. Open a command-prompt in the project folder (the folder containing `BusBoard.csproj`, _not_ the root folder of the repository).
 Your trainer can show you how to do this, if you need any help.
 
 5. Run this command to run your code:  
